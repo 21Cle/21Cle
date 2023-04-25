@@ -27,9 +27,9 @@
 <h3>⚡️ A propos de moi ⚡️</h3><br/>
 <p>
   🧔 Moi c'est <bold>Clémence</bold>. 33 ans, ancienne optométriste et amatrice de code.<br/>
-  💼 J'habite à <a href="https://www.google.com/maps?q=bordeaux">Luxembourg</a>.<br/>
-  💻 Développeuse Web 
-  🎓 Alumni <a href="https://lewagon.com">@Le Wagon</a>
+  💼 J'habite à <a href="https://www.google.com/maps?q=luxembourg">Luxembourg</a>.<br/>
+  💻 Développeuse Web. <br/>
+  🎓 Alumni <a href="https://lewagon.com">@Le Wagon</a>.
 </p>
 <p>
   🔗 Vous souhaitez me contacter ? Alors envoyez-moi un <a href="mailto:clemence.legrand@yahoo.fr?subject=[GitHub]%20🔥%20Prise%20de%20contact&body=Bonjour%20Clémence%2C%0A%0AJe%20viens%20vers%20toi%20aujourd%27hui%20apr%C3%A8s%20avoir%20vu%20ton%20profil%20GitHub%20pour%20...">mail</a>
