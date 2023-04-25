@@ -26,7 +26,7 @@
 <img src="http://views.whatilearened.today/views/github/21Cle/views.svg"/>
 <h3>⚡️ A propos de moi ⚡️</h3><br/>
 <p>
-  🧔 Moi c'est <bold>Clémence</bold>. 33 ans, ancienne optométriste et amatrice de code.<br/>
+  👩🏼‍💻 Moi c'est <bold>Clémence</bold>. 33 ans, ancienne optométriste et amatrice de code.<br/>
   💼 J'habite à <a href="https://www.google.com/maps?q=luxembourg">Luxembourg</a>.<br/>
   💻 Développeuse Web. <br/>
   🎓 Alumni <a href="https://lewagon.com">@Le Wagon</a>.
